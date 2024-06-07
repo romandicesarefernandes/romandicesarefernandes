@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman Di Cesare</h1>
 <h3 align="center">A computer science student from the University of Central Florida</h3>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman di cesare" height="30" width="40" />
 
 - 🔭 I’m currently working on **A startup project, Vital Track Health**
 
